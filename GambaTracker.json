@@ -1,0 +1,22 @@
+{
+  "Author": "Janceboy & Filo",
+  "Name": "Gamba Tracker",
+  "InternalName": "GambaTracker",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "plugin for tracking gamba dealers making it easier to find them",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/janceboy/GambaTracker",
+  "Tags": [
+    "plugin",
+    "gamba",
+    "tracker"
+  ],
+  "DalamudApiLevel": 11,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "images/icon.png",
+  "Punchline": "",
+  "AcceptsFeedback": true
+}
